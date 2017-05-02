@@ -74,6 +74,3 @@
 + Rotation properties of billboards.
 + Velocity inheritance, external forces, texture sheets.
 + Collisions and sub emitters.
-
----
-Find out more about our [Unity Certification Preparation Course](https://www.udemy.com/unitycert?couponCode=GitHubDiscount).
