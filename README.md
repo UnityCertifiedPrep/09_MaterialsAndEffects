@@ -1,11 +1,11 @@
-### Section Introduction:  Materials and Effects ###
+### 1 Section Introduction:  Materials and Effects ###
 
 + Let’s make things pretty!
 + This section covers, well, materials and effects.
 + We will cover shaders and post processing.
 + How to create particle systems.
 
-### Materials » Standard Shaders 1/3 ###
+### 2 Materials » Standard Shaders 1/3 ###
 
 + Match Standard Shader properties by their description.
 + Define the Albedo of a material.
@@ -14,14 +14,14 @@
 + Metallic and Smoothness properties.
 + Introduction to Normal maps.
 
-### Materials » Standard Shaders 2/3 ###
+### 3 Materials » Standard Shaders 2/3 ###
 
 + Match Standard Shader properties by their description.
 + Height vs normal maps.
 + Occlusion and emission maps.
 + Details maps and masks.
 
-### Materials » Standard Shaders 3/3 ###
+### 4 Materials » Standard Shaders 3/3 ###
 
 + Match Standard Shader properties by their description.
 + Standard specular shader.
@@ -29,7 +29,7 @@
 + Glass materials.
 + Render modes: Fade vs Cutout vs Transparent
 
-### Effects » Image Effects 1/2 ###
+### 5 Effects » Image Effects 1/2 ###
 
 + Differentiate Image Effects by their results.
 + Overview of the effects package.
@@ -38,7 +38,7 @@
 + Colour adjustment in Unity.
 + Post-processed antialiasing.
 
-### Effects » Image Effects 2/2 ###
+### 6 Effects » Image Effects 2/2 ###
 
 + Differentiate Image Effects by their results.
 + Overview of the effects package.
@@ -46,7 +46,7 @@
 + Motion blur and film noise.
 + Edge detection and vortex effects.
 
-### Particle System » Emitters 1/3 ###
+### 7 Particle System » Emitters 1/3 ###
 
 + Explain particle system settings.
 + Differentiate particle options by their result.
@@ -56,7 +56,7 @@
 + Particle speed and direction.
 + Billboard vs Mesh render modes.
 
-### Particle System » Emitters 2/3 ###
+### 8 Particle System » Emitters 2/3 ###
 
 + Explain particle system settings.
 + Differentiate particle options by their result.
@@ -66,7 +66,7 @@
 + Using curves, gradients over lifetime.
 + Random values between curves or gradients.
 
-### Particle System » Emitters 3/3 ###
+### 9 Particle System » Emitters 3/3 ###
 
 + Explain particle system settings.
 + Differentiate particle options by their result.
